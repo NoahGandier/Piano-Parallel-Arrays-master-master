@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Piano
+comment1.params=
+comment1.target=Piano()
+comment2.params=
+comment2.target=void\ makeKeys()
+comment2.text=\r\n\ makeKeys\ adds\ key\ objects\ to\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ makeAllKeys()
+comment3.text=\r\n\ makeAllKeys\ fills\ all\ whiteKeyObjects\ and\ every\r\n\ with\ all\ blackKeyObjects.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ act()
+comment5.params=downKeys
+comment5.target=void\ checkForSeconds(int[])
+comment5.text=\r\n\ checkForSeconds\ sees\ whether\ one\ or\ more\ downKeys\ is\ pressed\ down\ and\r\n\ if\ so\ displays\ text\ showing\ the\ user\ that\ they\ play\ a\ second\r\n\ \r\n\ @param\ an\ integer\ array\ downKeys\ that\ checks\ if\ the\ correct\ keys\ to\ \r\n\ make\ a\ second\ are\ pressed\ \r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=downKeys
+comment6.target=void\ checkForTriads(int[])
+comment7.params=downKeys
+comment7.target=void\ checkForSevenths(int[])
+comment8.params=downKeys
+comment8.target=void\ checkForInvertedTriads(int[])
+numComments=9
